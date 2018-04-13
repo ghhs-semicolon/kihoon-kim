@@ -1,0 +1,24 @@
+h2{
+    font-size: 12px;
+}
+
+#subtitle{
+    font-size: 12px;
+}
+
+.input-area{
+    margin-left: 100px;
+}
+
+h1{
+    color:red;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+.bottom{
+    padding-top: 20px;
+}
